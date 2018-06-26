@@ -1,4 +1,4 @@
-package com.k4dima.bibliotekajitpack;
+package com.k4dima.librarytwo;
 
 public class CoolUtil {
     public void doCoolStuff() {
