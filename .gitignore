@@ -13,3 +13,4 @@ release/
 build/
 !.idea/dictionaries/
 gradlew.bat
+gradle/wrapper/gradle-wrapper.jar
