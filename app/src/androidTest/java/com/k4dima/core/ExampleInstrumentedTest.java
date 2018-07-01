@@ -1,4 +1,4 @@
-package com.k4dima.bibliotekajitpack;
+package com.k4dima.core;
 
 import android.content.Context;
 
